@@ -1,0 +1,1 @@
+Project which is created for learning golang
